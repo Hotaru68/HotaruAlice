@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 94413af5c8d5c0c4ba798edd0b07b665
+  - enabled: 1
+    path: Assets/Scenes/SelectMode.unity
+    guid: d529d7bff30555d458b5ec0da473353b
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: a517568f0f7c4064f9974b6d801bb43b
+  - enabled: 1
+    path: Assets/Scenes/Ranking.unity
+    guid: eafcbcd8b8e5cbb45b637062c892fcdd
+  - enabled: 0
+    path: Assets/Cainos/Pixel Art Platformer - Village Props/Scene/SC Demo Scene
+      - Village Props.unity
+    guid: 104b0d14871d44f4881963af94f49350
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 0bfe953dedf0b4948af693db86328b43
+  - enabled: 0
+    path: Assets/Scenes/Stage1.unity
+    guid: f3214ccd6b7b08e4181a5185149e84ad
+  - enabled: 1
+    path: Assets/Scenes/GameOrver.unity
+    guid: f0c0b9c448699244c8cac11bdc0780bd
+  - enabled: 0
+    path: Assets/Scenes/GameClear.unity
+    guid: 2854d40fb41166e43a33ad479ffe7c46
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
